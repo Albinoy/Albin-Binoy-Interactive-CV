@@ -8,7 +8,7 @@ Open `index.html` in a web browser. No installation or build step is required.
 ## Features
 - Graduate and part-time employer views
 - Expandable projects and education results
-- Filterable skills, light/dark themes and print support
+- Filterable skills, light-only motherboard-inspired design and print support
 - Email, LinkedIn and GitHub links
 - Responsive layout and reduced-motion support
 
